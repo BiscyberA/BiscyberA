@@ -11,12 +11,6 @@
 - [Comptia Security+](https://www.credly.com/earner/earned/badge/7cbe4596-e0d2-46cd-adc7-5b97fa337b5c)
 - [Comptia CySA+](https://www.credly.com/earner/earned/badge/effa1b1a-d7ca-4e3b-b78b-95e6c6733a32)
   
-
-<h2>📺 Popular YouTube Videos</h2>
-
-- [Tutorial: Credential Scan with Nessus](https://www.youtube.com/watch?v=a83ASGn_V_s)
-
-
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
