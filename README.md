@@ -6,6 +6,7 @@
 
 <h2>📄 Certifications</h2>
 
+- [Comptia Stackable Certifications](https://www.credly.com/users/bismark-darkwa.5433b214/badges)
 - [Comptia A+](https://www.credly.com/earner/earned/badge/a6ca655d-81cf-4c3c-a6b5-f2915d291e05)
 - [Comptia Network+](https://www.credly.com/earner/earned/badge/39269743-e68a-410e-a62e-484b2cd5e1df)
 - [Comptia Security+](https://www.credly.com/earner/earned/badge/7cbe4596-e0d2-46cd-adc7-5b97fa337b5c)
