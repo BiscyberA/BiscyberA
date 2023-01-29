@@ -2,7 +2,10 @@
 
 <h2>👨‍💻 My Cybersecurity Projects:</h2>
 
+<h2> Vulnerability Management:</h2>
+
 - [Credential Scan with Nessus Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+ 
 
 <h2>📄 Certifications</h2>
 
