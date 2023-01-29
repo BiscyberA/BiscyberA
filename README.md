@@ -5,8 +5,20 @@
 <h2> Vulnerability Management:</h2>
 
 - [Credential Scan with Nessus Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
- 
 
+<h2> Phishing Analysis:</h2>
+
+- [Email header and Body Analysis Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+
+<h2> Splunk(SIEM Solution) </h2>
+
+- [Analyzing and Correlating Ingested VPN Logs Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+
+<h2> Active Directory Home Lab </h2>
+
+- [Installing and Configuring Windows Server 2019](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Installing Active Directory Services As a Role](https://github.com/joshmadakor1/Algorithms-Practice)
+ 
 <h2>📄 Certifications</h2>
 
 - [Comptia Stackable Certifications](https://www.credly.com/users/bismark-darkwa.5433b214/badges)
