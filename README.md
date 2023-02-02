@@ -17,7 +17,6 @@
 <h2> Active Directory Home Lab </h2>
 
 - [Installing and Configuring Windows Server 2019](https://github.com/joshmadakor1/Algorithms-Practice)
-- [Installing Active Directory Services As a Role](https://github.com/joshmadakor1/Algorithms-Practice)
  
 <h2>📄 Certifications</h2>
 
