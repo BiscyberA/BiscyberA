@@ -8,7 +8,7 @@
 
 <h2> Phishing Analysis:</h2>
 
-- [Email header and Body Analysis Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Email header and Body Analysis Home Lab](https://github.com/BiscyberA/Phishing-Analysis.git)
 
 <h2> Splunk(SIEM Solution) </h2>
 
