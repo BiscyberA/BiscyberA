@@ -4,7 +4,7 @@
 
 <h2> Vulnerability Management:</h2>
 
-- [Credential Scan with Nessus Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Credential Scan with Nessus Home Lab](https://github.com/BiscyberA/Vulnerability-Management.git)
 
 <h2> Phishing Analysis:</h2>
 
