@@ -12,7 +12,7 @@
 
 <h2> Splunk(SIEM Solution) </h2>
 
-- [Analyzing and Correlating Ingested VPN Logs Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Analyzing and Correlating Ingested VPN Logs Home Lab](https://github.com/BiscyberA/Splunk-SIEM-Solution-.git)
 
 <h2> Active Directory Home Lab </h2>
 
