@@ -16,7 +16,7 @@
 
 <h2> Active Directory Home Lab </h2>
 
-- [Installing and Configuring Windows Server 2019](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Installing and Configuring Windows Server 2019](https://github.com/BiscyberA/Active-Direcory-Home-Lab.git)
  
 <h2>📄 Certifications</h2>
 
