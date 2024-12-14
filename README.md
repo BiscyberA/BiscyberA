@@ -16,7 +16,7 @@
 
 <h2> Detection Engineering </h2>
 
-- [Installing and Configuring Windows Server 2019](https://github.com/BiscyberA/Active-Direcory-Home-Lab.git)
+- [Creating,Validating,Deploying and Monitoring Threat Detection Rules](https://github.com/BiscyberA/Active-Direcory-Home-Lab.git)
  
 <h2>📄 Certifications</h2>
 
