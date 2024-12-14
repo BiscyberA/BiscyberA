@@ -14,7 +14,7 @@
 
 - [Analyzing and Correlating Ingested VPN Logs Home Lab](https://github.com/BiscyberA/Splunk-SIEM-Solution-.git)
 
-<h2> Active Directory Home Lab </h2>
+<h2> Detection Engineering </h2>
 
 - [Installing and Configuring Windows Server 2019](https://github.com/BiscyberA/Active-Direcory-Home-Lab.git)
  
