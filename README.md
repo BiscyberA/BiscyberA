@@ -12,7 +12,7 @@
 
 <h2> Splunk(SIEM Solution) </h2>
 
-- [Analyzing and Correlating Ingested VPN Logs Home Lab](https://github.com/BiscyberA/Splunk-SIEM-Solution-.git)
+- [Ingested and Query Web Access Logs With Various SPL Commands](https://github.com/BiscyberA/Splunk-SIEM-Solution-.git)
 
 <h2> Detection Engineering </h2>
 
