@@ -16,7 +16,7 @@
 
 <h2> Detection Engineering </h2>
 
-- [Creating,Validating,Deploying and Monitoring Threat Detection Rules](https://github.com/BiscyberA/Detection-Engineering.git)
+- [Created,Validated,Deployed and Monitored Threat Detection Rules](https://github.com/BiscyberA/Detection-Engineering.git)
  
 <h2>📄 Certifications</h2>
 
